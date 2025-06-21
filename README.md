@@ -2,6 +2,8 @@
 
 ## Linux time
 
+只作为参考
+
 https://www.runoob.com/linux/linux-comm-time.html
 
 ```shell
